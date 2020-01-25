@@ -5,6 +5,7 @@
 
 using namespace std;
 
+//Snowman Game with Graphics
 
 class Game {
     int chances;
