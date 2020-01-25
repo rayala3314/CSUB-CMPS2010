@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//Internal Number of character
+
 int main ()
 {
 
