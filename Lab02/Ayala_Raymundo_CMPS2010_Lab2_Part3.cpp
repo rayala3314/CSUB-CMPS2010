@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//Calculating Salary
+
 int main ()
 {
     float hourlyRate, weekHours, weekSalary, monthSalary, annualSalary, monthHours, yearHours;
