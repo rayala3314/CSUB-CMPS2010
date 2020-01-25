@@ -1,7 +1,7 @@
  #include <iostream>
 
  using namespace std;
-
+//simple math calucations
 
  int main ()
 {
