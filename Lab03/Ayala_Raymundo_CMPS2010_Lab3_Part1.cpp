@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//Internal number representation of char
+
 int main ()
 {
 
