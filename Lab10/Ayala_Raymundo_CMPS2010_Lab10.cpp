@@ -2,6 +2,8 @@
 
 using namespace std;
 
+//This program does some shape calculations using structures
+
 struct circle{
     float radius;
     float area;
