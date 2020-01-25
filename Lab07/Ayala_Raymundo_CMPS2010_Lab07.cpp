@@ -5,6 +5,9 @@ const int COLS = 50;
 
 using namespace std;
 
+//Menu based user selection for calculation
+
+
 void displayMenu();
 int choice();
 int  sum(int array[ROWS][COLS]);
