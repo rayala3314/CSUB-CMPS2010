@@ -6,6 +6,8 @@ const int SIZE = 100;
 
 using namespace std;
 
+//This program checks if a word exists in a dictionary
+
 int main () {
     
     char arr[SIZE];
