@@ -3,7 +3,7 @@
 
 using namespace std;
 
-//Nummber Guessing Game
+//Nummber guessing game
 
 int main () {
 
