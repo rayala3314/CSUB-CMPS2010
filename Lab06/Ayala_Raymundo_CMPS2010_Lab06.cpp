@@ -3,6 +3,8 @@
 
 using namespace std;
 
+//BubbleSort
+
 const int  SIZE = 100;
 
 int  max(int array[], int size);
