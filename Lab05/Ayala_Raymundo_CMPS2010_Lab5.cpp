@@ -3,6 +3,8 @@
 
 using namespace std;
 
+//Filling even array values with its square and odd array values with its cube
+
 int square(int num);
 int cube(int num2);
 float approximate_pi(float iterations);
