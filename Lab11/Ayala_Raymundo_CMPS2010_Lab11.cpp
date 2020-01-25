@@ -2,6 +2,8 @@
 #include <cstring>
 #include <iomanip>
 
+//SnowMan Game
+
 using namespace std;
 
 
