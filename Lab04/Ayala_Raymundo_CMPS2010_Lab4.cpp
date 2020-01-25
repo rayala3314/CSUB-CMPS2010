@@ -6,6 +6,7 @@
 
 using namespace std;
 
+//using Switch statement to have a menu of several different calculations
 
 int main () {
 
