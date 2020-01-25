@@ -1,6 +1,10 @@
  #include <iostream>
  
- using namespace std;
+ 
+
+using namespace std;
+
+//using cin operator to calculate numbers
 
  int main ()
    {
