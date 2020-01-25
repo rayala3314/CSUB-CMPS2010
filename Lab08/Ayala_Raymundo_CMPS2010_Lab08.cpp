@@ -8,6 +8,7 @@ const int SIZE = 100;
 void method_one(char vow[], char usr_str[]);
 void method_two(char vow[], char usr_str[]);
 
+//This program searches for vowels and consonants using two different methods
 
 int main(){
 
